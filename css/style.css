@@ -3,4 +3,4 @@
     Purpose: Gift; */
 
 
-.homepage-img-header{ background-image: url("/img/header_zhiyuan.jpg"); background-repeat: no-repeat; height: 400px; }
+.homepage-img-header{ background-image: url("/img/header_zhiyuan.jpg"); background-repeat: no-repeat; height: 400px; background-position: center center; background-size: cover; width: 100%;}
